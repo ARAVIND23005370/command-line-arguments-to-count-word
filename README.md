@@ -27,11 +27,11 @@ Print the word count if it is not None.
 End the program
 
 ## PROGRAM:
-```
+```python
 
 #Program to for getting the word count from a text.
-#Developed by:PRAVIN KUMAR A
-#Register Number:23004448
+#Developed by:ARAVIND R
+#Register Number:23005370
 import sys
 fp=open(sys.argv[0],'r')
 count=0
